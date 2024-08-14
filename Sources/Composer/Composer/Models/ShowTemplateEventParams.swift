@@ -9,7 +9,7 @@ public class ShowTemplateEventParams: NSObject {
     
     public let displayMode: DisplayMode
     
-    internal var templateUrl: String = ""
+    public var templateUrl: String = ""
     
     internal var trackingId: String = ""
     
